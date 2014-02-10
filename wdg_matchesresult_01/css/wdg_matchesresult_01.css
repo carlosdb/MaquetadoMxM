@@ -125,4 +125,15 @@
 	.ie8 .wdg_matchesresult_01 .wdg_matchesresult_01_theme{
 		width:490px !important;
 	}
+
+.background-color-pleca1a,
+.background-color1a{
+    background-color: #e4e2e3 !important;
+}
+.textcolor-title5a{
+    color: #9d9b9c !important;  
+}
+.textcolor-title1a {
+color: #3a9e2a !important;
+}
 }

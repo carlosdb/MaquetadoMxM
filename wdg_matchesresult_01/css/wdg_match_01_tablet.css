@@ -2,7 +2,7 @@
     .wdg_match_01{
         width: 170px;
         height: 115px;
-        border: 1px solid rgba(235,235,235,0.4);
+        border: 1px solid #dcdadb;
         margin-bottom: 33px;
     }
     .ie7 .wdg_match_01{
